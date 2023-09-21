@@ -1,0 +1,3 @@
+C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_mundo/cmake-build-debug/CMakeFiles/hola_mundo.dir
+C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_mundo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_mundo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
