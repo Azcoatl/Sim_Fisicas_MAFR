@@ -1,0 +1,10 @@
+C:\Users\meyer\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/meyer/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\meyer\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S C:\Users\meyer\OneDrive\Documents\UNIAT\Semestre_5to\Simuladores_de_fisicas_en_tiempo_real\Sim_Fisicas_MAFR\hola_jupiter -B C:\Users\meyer\OneDrive\Documents\UNIAT\Semestre_5to\Simuladores_de_fisicas_en_tiempo_real\Sim_Fisicas_MAFR\hola_jupiter\cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_TOOLCHAIN_FILE
+
+
+-- Build files have been written to: C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_jupiter/cmake-build-debug
