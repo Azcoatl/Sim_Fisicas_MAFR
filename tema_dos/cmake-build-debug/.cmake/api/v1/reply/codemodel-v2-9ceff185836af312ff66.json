@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tema_dos",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tema_dos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tema_dos-Debug-a033276bc7908ca7dd33.json",
+					"name" : "tema_dos",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/tema_dos/cmake-build-debug",
+		"source" : "C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/tema_dos"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

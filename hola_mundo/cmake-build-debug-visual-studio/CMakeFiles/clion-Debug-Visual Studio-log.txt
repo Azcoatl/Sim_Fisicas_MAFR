@@ -1,0 +1,4 @@
+C:\Users\meyer\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/meyer/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\meyer\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S C:\Users\meyer\OneDrive\Documents\UNIAT\Semestre_5to\Simuladores_de_fisicas_en_tiempo_real\Sim_Fisicas_MAFR\hola_mundo -B C:\Users\meyer\OneDrive\Documents\UNIAT\Semestre_5to\Simuladores_de_fisicas_en_tiempo_real\Sim_Fisicas_MAFR\hola_mundo\cmake-build-debug-visual-studio
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_mundo/cmake-build-debug-visual-studio

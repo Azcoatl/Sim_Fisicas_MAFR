@@ -1,0 +1,21 @@
+# ninja log v5
+0	56	7207631744837950	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	ead2e7c542aa005c
+0	56	7207631744837950	C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	ead2e7c542aa005c
+57	18754	7207631931809379	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	fd89390554aaa35f
+57	18754	7207631931809379	C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	fd89390554aaa35f
+18755	18894	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	a5b59be8f1ca1e2
+18755	18894	0	C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	a5b59be8f1ca1e2
+18894	18947	7207631933743775	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	7c59376d5656ecf1
+18894	18947	7207631933743775	C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	7c59376d5656ecf1
+18947	18999	7207631934263839	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	e1b6f3e45bca3d3f
+18947	18999	7207631934263839	C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	e1b6f3e45bca3d3f
+18999	19049	7207631934754322	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	2046666c7ab775ee
+18999	19049	7207631934754322	C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	2046666c7ab775ee
+19050	19100	7207631935274339	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	e6e9e3d11fc224c
+19050	19100	7207631935274339	C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	e6e9e3d11fc224c
+19101	19153	7207631935795048	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	65e2de49ca2c6ea7
+19101	19153	7207631935795048	C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	65e2de49ca2c6ea7
+19153	19225	7207631936515222	CMakeFiles/sfml-populate-complete	2732a022a17ee531
+19153	19225	7207631936515222	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	2732a022a17ee531
+19153	19225	7207631936515222	C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_joints/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	2732a022a17ee531
+19153	19225	7207631936515222	C:/Users/meyer/OneDrive/Documents/UNIAT/Semestre_5to/Simuladores_de_fisicas_en_tiempo_real/Sim_Fisicas_MAFR/hola_joints/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	2732a022a17ee531
